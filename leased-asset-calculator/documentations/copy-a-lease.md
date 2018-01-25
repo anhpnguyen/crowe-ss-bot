@@ -1,4 +1,4 @@
-#Copy a Lease
+# Copy a Lease
 
 The application allows the user to copy the details of a lease and create a new lease with the same information. 
 
